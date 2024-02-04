@@ -21,7 +21,7 @@ This project is a Netflix Clone that replicates the popular streaming service's 
 Follow these steps to set up the project locally:
 
 1.Clone the repository:
-git clone https://github.com/ManikandanKalaimathi/netflix-clone.git
+git clone [https://github.com/ManikandanKalaimathi/netflix-clone.git](https://github.com/ManikandanKalaimathi/netflix-clone-react-node/tree/master)
 
 1.Install dependencies for the frontend and backend:
 cd netflix-clone
